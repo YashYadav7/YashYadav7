@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @YashYadav7
+- 👀 I’m interested in Web development .
+- 🌱 I’m currently learning Artificial Intelligence and Machine Learning(2021 -2025) at MAIT,ROHINI.
+- 📫 You can reach me on twitter.
